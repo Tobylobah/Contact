@@ -1,0 +1,63 @@
+body {
+    background-color: pink;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.display{
+    padding-top:40px;
+    padding-left:30px;
+}
+.omo{
+    padding-left:30px;  
+}
+.form{
+    padding-left: 30px;
+}
+.card-cover {
+    border-radius: 7px;
+    border-width: 2px;
+    width: 500px;
+    height: 300px;
+    margin:auto;
+    margin-top:150px;
+    background-color:white;
+
+}
+.button{
+    border-radius:10px;
+    border-width:1px;
+    width:47px;
+    text-align:center ;
+    color: white;
+    background-color: rgb(46, 168, 206);
+}
+.button1{
+    border-radius:10px;
+    border-width:1px;
+    width:127px;
+    text-align:center ;
+    color: white;
+    background-color: rgb(46, 168, 206);
+}
+.button2{
+    
+    border-radius:10px;
+    border-width:1px;
+    width:127px;
+    text-align:center ;
+    color: white;
+    background-color:rgb(145, 5, 5);
+}
+.button3{
+    border-radius:10px;
+    border-width:1px;
+    width:127px;
+    text-align:center ;
+    color: white;
+    background-color:rgb(50, 146, 50);
+}
+.strike{
+    border-radius:2px;
+    border-width:1px;
+    background-color: rgb(170, 167, 167);
+}

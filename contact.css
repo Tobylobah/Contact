@@ -1,0 +1,73 @@
+
+form{
+    width:1000px;
+    height:900px;
+}
+
+
+.con
+{
+    text-align: center;
+    color:black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-weight:500px;
+font-size:70px;
+    text-align: center;
+    margin-top:10px;
+    margin-left:10px;
+}
+input[type=message] {
+    width: 30%;
+    height:100px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    margin-top:10px;
+    margin-left: 470px;
+  }
+  
+input[type=number] {
+    width: 30%;
+    padding:8px 20px;
+    box-sizing: border-box;
+    
+    margin-top:10px;
+    margin-left:470px;
+  }
+  
+input[type=text] {
+    width: 30%;
+    padding:8px 20px;
+    box-sizing: border-box;
+    
+    margin-top:10px;
+    margin-left:470px;
+  }
+  button[type=button]{
+      width:30%;
+      height:40px;
+      background-color: black;
+      color:white;
+      
+    margin-top:10px;
+    margin-left:470px;
+  
+}
+.shift{
+  margin-left:100px;
+  color: black;
+}
+
+    
+  .move{
+color:black;
+float:right;
+size: 4px;
+
+
+
+
+
+
+
+  }
